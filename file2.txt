@@ -1,3 +1,7 @@
 add file 2
 
+<<<<<<< HEAD
 add a line in master
+=======
+add a line
+>>>>>>> feature1
